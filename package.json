@@ -1,0 +1,19 @@
+{
+  "name": "mytoastpackage",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Rakibul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.4.0",
+    "react-toastify": "^9.0.8"
+  }
+}
