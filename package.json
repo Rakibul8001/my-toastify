@@ -1,6 +1,6 @@
 {
-  "name": "mytoastpackage",
-  "version": "2.0.0",
+  "name": "@mdrakibul8001/toastify",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
